@@ -143,4 +143,15 @@
 
  ---
 
+ ## 🖼️ Sample Screenshots
+
+ ### 📌 Home Page
+ ![Home Page](Home.png)
+
+ ### 📌 Grading Results
+ ![Grading Result](Dashboard.png)
+
+  ### 📌 Architecture Diagram
+ ![Architecture](Architecture.png)
+
 
